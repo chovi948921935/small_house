@@ -1,6 +1,5 @@
-# small_house
-**Today is October 5th.**
+# Question Bank
 
-**I'm trying to learn how to use Github for code version controll and collaboration.**
+## Today is Oct 5th
+### I want to set up an algorithm warehouse here. Hope that I can stick on it.
 
-**And this is a new branch named "Oct 5".**
